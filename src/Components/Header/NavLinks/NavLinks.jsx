@@ -18,7 +18,7 @@ const NavLinks = () => {
             </li>
             <button
                type="button"
-               className="text-white bg-primary font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2">
+               className="text-white bg-primary hover:bg-yellow-600 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2">
                Login
             </button>
          </ul>
