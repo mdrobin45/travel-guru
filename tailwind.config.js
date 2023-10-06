@@ -6,6 +6,9 @@ export default {
          fontFamily: {
             bebas: "Bebas Neue, sans-serif",
          },
+         colors: {
+            primary: "#F9A51A",
+         },
       },
    },
    plugins: [],
